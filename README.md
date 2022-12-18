@@ -1,2 +1,2 @@
-# srtutur-data
-struktur data
+# struktur-data
+BAGUS PRASTYO (20121067)
